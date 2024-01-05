@@ -1,0 +1,4 @@
+org.traccar.client.test.app-regular-0 D:\dev\TraccarTest\AndroidApp\app\build\generated\res\resValues\androidTest\regular\debug
+org.traccar.client.test.app-mergeRegularDebugAndroidTestResources-1 D:\dev\TraccarTest\AndroidApp\app\build\intermediates\incremental\regularDebugAndroidTest\mergeRegularDebugAndroidTestResources\merged.dir
+org.traccar.client.test.app-mergeRegularDebugAndroidTestResources-2 D:\dev\TraccarTest\AndroidApp\app\build\intermediates\incremental\regularDebugAndroidTest\mergeRegularDebugAndroidTestResources\stripped.dir
+org.traccar.client.test.app-merged_res-3 D:\dev\TraccarTest\AndroidApp\app\build\intermediates\merged_res\regularDebugAndroidTest

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.traccar.client.app-mergeRegularDebugResources-43:/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Aloysius Chia\\.gradle\\caches\\transforms-3\\ba9c20a47e3713ad3b99ee34e2e97f7a\\transformed\\appcompat-1.6.1\\res\\values-v22\\values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,487",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,482,764"
+                    }
+                }
+            ]
+        }
+    ]
+}

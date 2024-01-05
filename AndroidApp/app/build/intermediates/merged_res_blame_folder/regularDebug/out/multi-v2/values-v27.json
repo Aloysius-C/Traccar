@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.traccar.client.app-mergeRegularDebugResources-43:/values-v27/values-v27.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Aloysius Chia\\.gradle\\caches\\transforms-3\\d7bdded7b670c3e7530969c925866944\\transformed\\library-0.0.1\\res\\values-v27\\values-v27.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,115",
+                        "endLines": "2,10",
+                        "endColumns": "59,12",
+                        "endOffsets": "110,626"
+                    }
+                }
+            ]
+        }
+    ]
+}

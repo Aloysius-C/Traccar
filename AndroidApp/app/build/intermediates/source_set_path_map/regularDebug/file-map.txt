@@ -1,0 +1,50 @@
+org.traccar.client.app-fragment-1.3.6-0 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\00969fec3c58a4aab4f525d6dedac62b\transformed\fragment-1.3.6\res
+org.traccar.client.app-lifecycle-viewmodel-2.6.1-1 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\088f0d56725b433291196d54b6cc0698\transformed\lifecycle-viewmodel-2.6.1\res
+org.traccar.client.app-window-1.0.0-2 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\0ae3f4028f51d0b4c91bf65b88850a2d\transformed\window-1.0.0\res
+org.traccar.client.app-slidingpanelayout-1.2.0-3 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\132b5bf90a8b6b44e61b198bd7db9c5f\transformed\slidingpanelayout-1.2.0\res
+org.traccar.client.app-core-3.0.0-4 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\159a13c0a92579a919cbce6af67e141a\transformed\core-3.0.0\res
+org.traccar.client.app-startup-runtime-1.1.1-5 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\1be4afc6f01d71801efcd7eebb3fa643\transformed\startup-runtime-1.1.1\res
+org.traccar.client.app-coordinatorlayout-1.1.0-6 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\26bc0de0663848bf44c3739d660c89f6\transformed\coordinatorlayout-1.1.0\res
+org.traccar.client.app-savedstate-1.2.1-7 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\35aac74317724ed543bbea77012f5c68\transformed\savedstate-1.2.1\res
+org.traccar.client.app-core-ktx-1.12.0-8 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\37697fbee6ea0b8785fb722466f4ccec\transformed\core-ktx-1.12.0\res
+org.traccar.client.app-appcompat-resources-1.6.1-9 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\38eb095f4c5ae23e2c2197253bcc3689\transformed\appcompat-resources-1.6.1\res
+org.traccar.client.app-lifecycle-runtime-ktx-2.6.1-10 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\394dde7a1fdc3c192bfad40c53f3a047\transformed\lifecycle-runtime-ktx-2.6.1\res
+org.traccar.client.app-autostarter-1.1.0-11 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\3d1ecf8f97ce937158c6ac633fb2c96f\transformed\autostarter-1.1.0\res
+org.traccar.client.app-lifecycle-livedata-2.6.1-12 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\4686531b7d1df18a9d86ac28f1847a54\transformed\lifecycle-livedata-2.6.1\res
+org.traccar.client.app-emoji2-views-helper-1.2.0-13 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\4dc83a9f9a52a22952edb3fe2e6f0d27\transformed\emoji2-views-helper-1.2.0\res
+org.traccar.client.app-preference-1.2.1-14 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\509d44c00b24e15822e4469d3d66692a\transformed\preference-1.2.1\res
+org.traccar.client.app-preference-ktx-1.2.1-15 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\63f30ab564d5c1b5bcb86c1adcc60dfa\transformed\preference-ktx-1.2.1\res
+org.traccar.client.app-lifecycle-viewmodel-savedstate-2.6.1-16 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\643c31eaaed690969f7b4ece165c841c\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+org.traccar.client.app-annotation-experimental-1.3.0-17 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\6d837aa8322eaefe840674253dfc4f38\transformed\annotation-experimental-1.3.0\res
+org.traccar.client.app-material-1.10.0-18 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\8850a9601a9f3e022d5fbb7f49a2f220\transformed\material-1.10.0\res
+org.traccar.client.app-drawerlayout-1.1.1-19 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\8a3323c200978720e965634660dfa322\transformed\drawerlayout-1.1.1\res
+org.traccar.client.app-core-1.12.0-20 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\8a9088a5dec769ef66d1e7599bcbbf37\transformed\core-1.12.0\res
+org.traccar.client.app-lifecycle-livedata-core-ktx-2.6.1-21 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\8fc6729ab87cc4169d7f6cc86f2a0a1f\transformed\lifecycle-livedata-core-ktx-2.6.1\res
+org.traccar.client.app-lifecycle-process-2.6.1-22 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\903a359bfeacbe8aba008446ffd0f830\transformed\lifecycle-process-2.6.1\res
+org.traccar.client.app-activity-ktx-1.8.0-23 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\9397d74624f607216232f01e05821438\transformed\activity-ktx-1.8.0\res
+org.traccar.client.app-lifecycle-viewmodel-ktx-2.6.1-24 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\95f70ae0741466f31aefc26820f93230\transformed\lifecycle-viewmodel-ktx-2.6.1\res
+org.traccar.client.app-lifecycle-livedata-core-2.6.1-25 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\97047df9c0f661033c62c7961050b3ac\transformed\lifecycle-livedata-core-2.6.1\res
+org.traccar.client.app-recyclerview-1.1.0-26 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\9c3c93b80bdc4635e23944ce691ab272\transformed\recyclerview-1.1.0\res
+org.traccar.client.app-savedstate-ktx-1.2.1-27 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\a5e40f6f9b3849c942035f9593fd0336\transformed\savedstate-ktx-1.2.1\res
+org.traccar.client.app-profileinstaller-1.3.0-28 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\a60044e37ec62956b0c1030064792dde\transformed\profileinstaller-1.3.0\res
+org.traccar.client.app-transition-1.4.1-29 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\b666e9f2efd62fde051d943bbb0fc64b\transformed\transition-1.4.1\res
+org.traccar.client.app-appcompat-1.6.1-30 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\ba9c20a47e3713ad3b99ee34e2e97f7a\transformed\appcompat-1.6.1\res
+org.traccar.client.app-viewpager2-1.0.0-31 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\c1a9c89b4f12f592d8fbdca4f579e727\transformed\viewpager2-1.0.0\res
+org.traccar.client.app-constraintlayout-2.0.1-32 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\d213e6a5f367700742824638e9761791\transformed\constraintlayout-2.0.1\res
+org.traccar.client.app-library-0.0.1-33 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\d7bdded7b670c3e7530969c925866944\transformed\library-0.0.1\res
+org.traccar.client.app-activity-1.8.0-34 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\decac3a9910c05b0fe5ec92cbdc51d56\transformed\activity-1.8.0\res
+org.traccar.client.app-cardview-1.0.0-35 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\e00be6d9257d2b9123814da9864c21dc\transformed\cardview-1.0.0\res
+org.traccar.client.app-lifecycle-runtime-2.6.1-36 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\ed576be8207ed87fe3ce415317acfd45\transformed\lifecycle-runtime-2.6.1\res
+org.traccar.client.app-core-runtime-2.2.0-37 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\eec58023094d7a85ddec33db5aa781db\transformed\core-runtime-2.2.0\res
+org.traccar.client.app-emoji2-1.2.0-38 C:\Users\Aloysius Chia\.gradle\caches\transforms-3\fef75f46ae48013c9b7bb398b6a92749\transformed\emoji2-1.2.0\res
+org.traccar.client.app-regular-39 D:\dev\TraccarTest\AndroidApp\app\build\generated\crashlytics\res\regular\debug
+org.traccar.client.app-regular-40 D:\dev\TraccarTest\AndroidApp\app\build\generated\res\pngs\regular\debug
+org.traccar.client.app-res-41 D:\dev\TraccarTest\AndroidApp\app\build\generated\res\processRegularDebugGoogleServices
+org.traccar.client.app-regular-42 D:\dev\TraccarTest\AndroidApp\app\build\generated\res\resValues\regular\debug
+org.traccar.client.app-mergeRegularDebugResources-43 D:\dev\TraccarTest\AndroidApp\app\build\intermediates\incremental\regularDebug\mergeRegularDebugResources\merged.dir
+org.traccar.client.app-mergeRegularDebugResources-44 D:\dev\TraccarTest\AndroidApp\app\build\intermediates\incremental\regularDebug\mergeRegularDebugResources\stripped.dir
+org.traccar.client.app-merged_res-45 D:\dev\TraccarTest\AndroidApp\app\build\intermediates\merged_res\regularDebug
+org.traccar.client.app-debug-46 D:\dev\TraccarTest\AndroidApp\app\src\debug\res
+org.traccar.client.app-main-47 D:\dev\TraccarTest\AndroidApp\app\src\main\res
+org.traccar.client.app-regular-48 D:\dev\TraccarTest\AndroidApp\app\src\regular\res
+org.traccar.client.app-regularDebug-49 D:\dev\TraccarTest\AndroidApp\app\src\regularDebug\res

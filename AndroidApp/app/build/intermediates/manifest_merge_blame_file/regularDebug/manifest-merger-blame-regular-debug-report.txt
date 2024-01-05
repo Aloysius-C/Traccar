@@ -1,0 +1,347 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.traccar.client"
+4    android:versionCode="83"
+5    android:versionName="7.2" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+11-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:6:5-81
+11-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:6:22-78
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:7:5-79
+12-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:7:22-76
+13    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+13-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:8:5-85
+13-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:8:22-82
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:9:5-67
+14-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:9:22-64
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:10:5-79
+15-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:10:22-76
+16    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+16-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:11:5-81
+16-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:11:22-78
+17    <uses-permission android:name="android.permission.WAKE_LOCK" />
+17-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:12:5-68
+17-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:12:22-65
+18    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+18-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:13:5-77
+18-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:13:22-74
+19    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_LOCATION" />
+19-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:14:5-86
+19-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:14:22-83
+20    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+20-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:15:5-88
+20-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:15:22-85
+21    <uses-permission android:name="oppo.permission.OPPO_COMPONENT_SAFE" />
+21-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:17:5-75
+21-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:17:22-72
+22    <uses-permission android:name="com.huawei.permission.external_app_settings.USE_COMPONENT" />
+22-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:18:5-97
+22-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:18:22-94
+23
+24    <uses-feature android:name="android.hardware.location.network" />
+24-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:20:5-70
+24-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:20:19-67
+25    <uses-feature android:name="android.hardware.location.gps" />
+25-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:21:5-66
+25-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:21:19-63
+26
+27    <permission
+27-->[androidx.core:core:1.12.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\8a9088a5dec769ef66d1e7599bcbbf37\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+28        android:name="org.traccar.client.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+28-->[androidx.core:core:1.12.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\8a9088a5dec769ef66d1e7599bcbbf37\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+29        android:protectionLevel="signature" />
+29-->[androidx.core:core:1.12.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\8a9088a5dec769ef66d1e7599bcbbf37\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+30
+31    <uses-permission android:name="org.traccar.client.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+31-->[androidx.core:core:1.12.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\8a9088a5dec769ef66d1e7599bcbbf37\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+31-->[androidx.core:core:1.12.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\8a9088a5dec769ef66d1e7599bcbbf37\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+32    <!--
+33        <uses-permission
+34        android:name="android.permission.QUERY_ALL_PACKAGES"
+35        tools:ignore="QueryAllPackagesPermission" />
+36    -->
+37    <queries>
+37-->[com.github.judemanutd:autostarter:1.1.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\3d1ecf8f97ce937158c6ac633fb2c96f\transformed\autostarter-1.1.0\AndroidManifest.xml:16:5-30:15
+38        <package android:name="com.miui.securitycenter" />
+38-->[com.github.judemanutd:autostarter:1.1.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\3d1ecf8f97ce937158c6ac633fb2c96f\transformed\autostarter-1.1.0\AndroidManifest.xml:17:9-59
+38-->[com.github.judemanutd:autostarter:1.1.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\3d1ecf8f97ce937158c6ac633fb2c96f\transformed\autostarter-1.1.0\AndroidManifest.xml:17:18-56
+39        <package android:name="com.miui.permcenter" />
+39-->[com.github.judemanutd:autostarter:1.1.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\3d1ecf8f97ce937158c6ac633fb2c96f\transformed\autostarter-1.1.0\AndroidManifest.xml:18:9-55
+39-->[com.github.judemanutd:autostarter:1.1.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\3d1ecf8f97ce937158c6ac633fb2c96f\transformed\autostarter-1.1.0\AndroidManifest.xml:18:18-52
+40        <package android:name="com.letv.android.letvsafe" />
+40-->[com.github.judemanutd:autostarter:1.1.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\3d1ecf8f97ce937158c6ac633fb2c96f\transformed\autostarter-1.1.0\AndroidManifest.xml:19:9-61
+40-->[com.github.judemanutd:autostarter:1.1.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\3d1ecf8f97ce937158c6ac633fb2c96f\transformed\autostarter-1.1.0\AndroidManifest.xml:19:18-58
+41        <package android:name="com.asus.mobilemanager" />
+41-->[com.github.judemanutd:autostarter:1.1.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\3d1ecf8f97ce937158c6ac633fb2c96f\transformed\autostarter-1.1.0\AndroidManifest.xml:20:9-58
+41-->[com.github.judemanutd:autostarter:1.1.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\3d1ecf8f97ce937158c6ac633fb2c96f\transformed\autostarter-1.1.0\AndroidManifest.xml:20:18-55
+42        <package android:name="com.huawei.systemmanager" />
+42-->[com.github.judemanutd:autostarter:1.1.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\3d1ecf8f97ce937158c6ac633fb2c96f\transformed\autostarter-1.1.0\AndroidManifest.xml:21:9-60
+42-->[com.github.judemanutd:autostarter:1.1.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\3d1ecf8f97ce937158c6ac633fb2c96f\transformed\autostarter-1.1.0\AndroidManifest.xml:21:18-57
+43        <package android:name="com.coloros.safecenter" />
+43-->[com.github.judemanutd:autostarter:1.1.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\3d1ecf8f97ce937158c6ac633fb2c96f\transformed\autostarter-1.1.0\AndroidManifest.xml:22:9-58
+43-->[com.github.judemanutd:autostarter:1.1.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\3d1ecf8f97ce937158c6ac633fb2c96f\transformed\autostarter-1.1.0\AndroidManifest.xml:22:18-55
+44        <package android:name="com.oppo.safe" />
+44-->[com.github.judemanutd:autostarter:1.1.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\3d1ecf8f97ce937158c6ac633fb2c96f\transformed\autostarter-1.1.0\AndroidManifest.xml:23:9-49
+44-->[com.github.judemanutd:autostarter:1.1.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\3d1ecf8f97ce937158c6ac633fb2c96f\transformed\autostarter-1.1.0\AndroidManifest.xml:23:18-46
+45        <package android:name="com.iqoo.secure" />
+45-->[com.github.judemanutd:autostarter:1.1.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\3d1ecf8f97ce937158c6ac633fb2c96f\transformed\autostarter-1.1.0\AndroidManifest.xml:24:9-51
+45-->[com.github.judemanutd:autostarter:1.1.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\3d1ecf8f97ce937158c6ac633fb2c96f\transformed\autostarter-1.1.0\AndroidManifest.xml:24:18-48
+46        <package android:name="com.vivo.permissionmanager" />
+46-->[com.github.judemanutd:autostarter:1.1.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\3d1ecf8f97ce937158c6ac633fb2c96f\transformed\autostarter-1.1.0\AndroidManifest.xml:25:9-62
+46-->[com.github.judemanutd:autostarter:1.1.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\3d1ecf8f97ce937158c6ac633fb2c96f\transformed\autostarter-1.1.0\AndroidManifest.xml:25:18-59
+47        <package android:name="com.evenwell.powersaving" />
+47-->[com.github.judemanutd:autostarter:1.1.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\3d1ecf8f97ce937158c6ac633fb2c96f\transformed\autostarter-1.1.0\AndroidManifest.xml:26:9-60
+47-->[com.github.judemanutd:autostarter:1.1.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\3d1ecf8f97ce937158c6ac633fb2c96f\transformed\autostarter-1.1.0\AndroidManifest.xml:26:18-57
+48        <package android:name="com.samsung.android" />
+48-->[com.github.judemanutd:autostarter:1.1.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\3d1ecf8f97ce937158c6ac633fb2c96f\transformed\autostarter-1.1.0\AndroidManifest.xml:27:9-55
+48-->[com.github.judemanutd:autostarter:1.1.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\3d1ecf8f97ce937158c6ac633fb2c96f\transformed\autostarter-1.1.0\AndroidManifest.xml:27:18-52
+49        <package android:name="com.oneplus" />
+49-->[com.github.judemanutd:autostarter:1.1.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\3d1ecf8f97ce937158c6ac633fb2c96f\transformed\autostarter-1.1.0\AndroidManifest.xml:28:9-47
+49-->[com.github.judemanutd:autostarter:1.1.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\3d1ecf8f97ce937158c6ac633fb2c96f\transformed\autostarter-1.1.0\AndroidManifest.xml:28:18-44
+50        <package android:name="com.android.settings" />
+50-->[com.github.judemanutd:autostarter:1.1.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\3d1ecf8f97ce937158c6ac633fb2c96f\transformed\autostarter-1.1.0\AndroidManifest.xml:29:9-56
+50-->[com.github.judemanutd:autostarter:1.1.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\3d1ecf8f97ce937158c6ac633fb2c96f\transformed\autostarter-1.1.0\AndroidManifest.xml:29:18-53
+51    </queries>
+52
+53    <application
+53-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:23:5-100:19
+54        android:name="org.traccar.client.MainApplication"
+54-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:29:9-40
+55        android:allowBackup="true"
+55-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:24:9-35
+56        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+56-->[androidx.core:core:1.12.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\8a9088a5dec769ef66d1e7599bcbbf37\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+57        android:debuggable="true"
+58        android:extractNativeLibs="true"
+59        android:icon="@mipmap/ic_launcher"
+59-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:26:9-43
+60        android:label="@string/app_name"
+60-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:27:9-41
+61        android:networkSecurityConfig="@xml/network_security_config"
+61-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:25:9-69
+62        android:testOnly="true"
+63        android:theme="@style/AppTheme" >
+63-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:28:9-40
+64        <meta-data
+64-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:32:9-34:37
+65            android:name="google_analytics_adid_collection_enabled"
+65-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:33:13-68
+66            android:value="false" />
+66-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:34:13-34
+67
+68        <activity
+68-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:36:9-39:47
+69            android:name="org.traccar.client.MainActivity"
+69-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:37:13-41
+70            android:exported="true"
+70-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:38:13-36
+71            android:launchMode="singleTask" />
+71-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:39:13-44
+72
+73        <activity-alias
+73-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:41:9-52:26
+74            android:name="org.traccar.client.Launcher"
+74-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:42:13-37
+75            android:exported="true"
+75-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:43:13-36
+76            android:targetActivity="org.traccar.client.MainActivity" >
+76-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:44:13-51
+77            <intent-filter>
+77-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:45:13-48:29
+78                <action android:name="android.intent.action.MAIN" />
+78-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:46:17-69
+78-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:46:25-66
+79
+80                <category android:name="android.intent.category.LAUNCHER" />
+80-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:47:17-77
+80-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:47:27-74
+81            </intent-filter>
+82
+83            <meta-data
+83-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:49:13-51:53
+84                android:name="android.app.shortcuts"
+84-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:50:17-53
+85                android:resource="@xml/shortcuts" />
+85-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:51:17-50
+86        </activity-alias>
+87
+88        <activity
+88-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:54:9-56:40
+89            android:name="org.traccar.client.StatusActivity"
+89-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:55:13-43
+90            android:exported="false" />
+90-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:56:13-37
+91        <activity
+91-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:58:9-68:20
+92            android:name="org.traccar.client.ShortcutActivity"
+92-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:59:13-45
+93            android:exported="true"
+93-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:60:13-36
+94            android:label="@string/menu_shortcuts" >
+94-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:61:13-51
+95            <intent-filter>
+95-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:62:13-64:29
+96                <action android:name="android.intent.action.VIEW" />
+96-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:63:17-69
+96-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:63:25-66
+97            </intent-filter>
+98            <intent-filter>
+98-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:65:13-67:29
+99                <action android:name="android.intent.action.CREATE_SHORTCUT" />
+99-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:66:17-80
+99-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:66:25-77
+100            </intent-filter>
+101        </activity>
+102
+103        <service
+103-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:70:9-73:56
+104            android:name="org.traccar.client.TrackingService"
+104-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:71:13-44
+105            android:exported="false"
+105-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:72:13-37
+106            android:foregroundServiceType="location" />
+106-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:73:13-53
+107
+108        <receiver
+108-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:75:9-84:20
+109            android:name="org.traccar.client.AutostartReceiver"
+109-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:76:13-46
+110            android:exported="true" >
+110-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:77:13-36
+111            <intent-filter>
+111-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:78:13-80:29
+112                <action android:name="android.intent.action.BOOT_COMPLETED" />
+112-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:79:17-79
+112-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:79:25-76
+113            </intent-filter>
+114            <intent-filter>
+114-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:81:13-83:29
+115                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+115-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:82:17-84
+115-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:82:25-81
+116            </intent-filter>
+117        </receiver>
+118        <receiver
+118-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:86:9-98:20
+119            android:name="org.traccar.client.StatusWidget"
+119-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:87:13-41
+120            android:exported="true"
+120-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:89:13-36
+121            android:label="@string/widget_label" >
+121-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:88:13-49
+122            <intent-filter>
+122-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:90:13-94:29
+123                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+123-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:91:17-84
+123-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:91:25-81
+124                <action android:name="org.traccar.action.SERVICE_STARTED" />
+124-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:92:17-77
+124-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:92:25-74
+125                <action android:name="org.traccar.action.SERVICE_STOPPED" />
+125-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:93:17-77
+125-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:93:25-74
+126            </intent-filter>
+127
+128            <meta-data
+128-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:95:13-97:62
+129                android:name="android.appwidget.provider"
+129-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:96:17-58
+130                android:resource="@xml/status_widget_info" />
+130-->D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:97:17-59
+131        </receiver>
+132
+133        <activity
+133-->[dev.doubledot.doki:library:0.0.1] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\d7bdded7b670c3e7530969c925866944\transformed\library-0.0.1\AndroidManifest.xml:14:9-16:72
+134            android:name="dev.doubledot.doki.ui.DokiActivity"
+134-->[dev.doubledot.doki:library:0.0.1] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\d7bdded7b670c3e7530969c925866944\transformed\library-0.0.1\AndroidManifest.xml:15:13-62
+135            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+135-->[dev.doubledot.doki:library:0.0.1] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\d7bdded7b670c3e7530969c925866944\transformed\library-0.0.1\AndroidManifest.xml:16:13-69
+136
+137        <provider
+137-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\fef75f46ae48013c9b7bb398b6a92749\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+138            android:name="androidx.startup.InitializationProvider"
+138-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\fef75f46ae48013c9b7bb398b6a92749\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+139            android:authorities="org.traccar.client.androidx-startup"
+139-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\fef75f46ae48013c9b7bb398b6a92749\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+140            android:exported="false" >
+140-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\fef75f46ae48013c9b7bb398b6a92749\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+141            <meta-data
+141-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\fef75f46ae48013c9b7bb398b6a92749\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+142                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+142-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\fef75f46ae48013c9b7bb398b6a92749\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+143                android:value="androidx.startup" />
+143-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\fef75f46ae48013c9b7bb398b6a92749\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+144            <meta-data
+144-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\903a359bfeacbe8aba008446ffd0f830\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+145                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+145-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\903a359bfeacbe8aba008446ffd0f830\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+146                android:value="androidx.startup" />
+146-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\903a359bfeacbe8aba008446ffd0f830\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+147            <meta-data
+147-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\a60044e37ec62956b0c1030064792dde\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+148                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+148-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\a60044e37ec62956b0c1030064792dde\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+149                android:value="androidx.startup" />
+149-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\a60044e37ec62956b0c1030064792dde\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+150        </provider>
+151
+152        <uses-library
+152-->[androidx.window:window:1.0.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\0ae3f4028f51d0b4c91bf65b88850a2d\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+153            android:name="androidx.window.extensions"
+153-->[androidx.window:window:1.0.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\0ae3f4028f51d0b4c91bf65b88850a2d\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+154            android:required="false" />
+154-->[androidx.window:window:1.0.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\0ae3f4028f51d0b4c91bf65b88850a2d\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+155        <uses-library
+155-->[androidx.window:window:1.0.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\0ae3f4028f51d0b4c91bf65b88850a2d\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+156            android:name="androidx.window.sidecar"
+156-->[androidx.window:window:1.0.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\0ae3f4028f51d0b4c91bf65b88850a2d\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+157            android:required="false" />
+157-->[androidx.window:window:1.0.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\0ae3f4028f51d0b4c91bf65b88850a2d\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+158
+159        <receiver
+159-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\a60044e37ec62956b0c1030064792dde\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+160            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+160-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\a60044e37ec62956b0c1030064792dde\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+161            android:directBootAware="false"
+161-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\a60044e37ec62956b0c1030064792dde\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+162            android:enabled="true"
+162-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\a60044e37ec62956b0c1030064792dde\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+163            android:exported="true"
+163-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\a60044e37ec62956b0c1030064792dde\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+164            android:permission="android.permission.DUMP" >
+164-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\a60044e37ec62956b0c1030064792dde\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+165            <intent-filter>
+165-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\a60044e37ec62956b0c1030064792dde\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+166                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+166-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\a60044e37ec62956b0c1030064792dde\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+166-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\a60044e37ec62956b0c1030064792dde\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+167            </intent-filter>
+168            <intent-filter>
+168-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\a60044e37ec62956b0c1030064792dde\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+169                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+169-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\a60044e37ec62956b0c1030064792dde\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+169-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\a60044e37ec62956b0c1030064792dde\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+170            </intent-filter>
+171            <intent-filter>
+171-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\a60044e37ec62956b0c1030064792dde\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+172                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+172-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\a60044e37ec62956b0c1030064792dde\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+172-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\a60044e37ec62956b0c1030064792dde\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+173            </intent-filter>
+174            <intent-filter>
+174-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\a60044e37ec62956b0c1030064792dde\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+175                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+175-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\a60044e37ec62956b0c1030064792dde\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+175-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\a60044e37ec62956b0c1030064792dde\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+176            </intent-filter>
+177        </receiver>
+178    </application>
+179
+180</manifest>

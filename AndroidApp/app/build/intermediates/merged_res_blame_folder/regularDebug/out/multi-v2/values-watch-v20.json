@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.traccar.client.app-mergeRegularDebugResources-43:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Aloysius Chia\\.gradle\\caches\\transforms-3\\ba9c20a47e3713ad3b99ee34e2e97f7a\\transformed\\appcompat-1.6.1\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

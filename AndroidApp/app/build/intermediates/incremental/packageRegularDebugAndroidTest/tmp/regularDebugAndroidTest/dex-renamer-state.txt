@@ -1,0 +1,7 @@
+#Fri Jan 05 17:16:11 SGT 2024
+base.0=D\:\\dev\\TraccarTest\\AndroidApp\\app\\build\\intermediates\\dex\\regularDebugAndroidTest\\mergeDexRegularDebugAndroidTest\\classes.dex
+base.1=D\:\\dev\\TraccarTest\\AndroidApp\\app\\build\\intermediates\\dex\\regularDebugAndroidTest\\mergeDexRegularDebugAndroidTest\\classes2.dex
+path.0=classes.dex
+path.1=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
