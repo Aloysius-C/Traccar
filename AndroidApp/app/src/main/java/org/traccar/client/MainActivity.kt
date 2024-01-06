@@ -17,6 +17,9 @@ package org.traccar.client
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.KeyEvent
+import android.content.IntentFilter
+import android.content.Intent
 
 class MainActivity : AppCompatActivity() {
 
@@ -25,4 +28,18 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.main)
     }
 
+    override fun dispatchKeyEvent(event: KeyEvent): Boolean {
+        if (event.action == KeyEvent.ACTION_DOWN && event.keyCode == KeyEvent.KEYCODE_S) {
+            // The 'S' key was pressed, trigger your function
+            sendAlarm()
+            return true
+        }
+        return super.dispatchKeyEvent(event)
+    }
+
+    fun sendAlarm() {
+        //Toast.makeText(this, R.string.button_press_successful, Toast.LENGTH_SHORT).show()
+        val intent = Intent("org.traccar.action.ACTION_SOS_BUTTON_TRIGGER")
+        sendBroadcast(intent)
+    }
 }

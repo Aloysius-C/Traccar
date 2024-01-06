@@ -97,6 +97,15 @@
                 android:resource="@xml/status_widget_info" />
         </receiver>
 
+        <receiver
+            android:name=".ExternalButtonReciever"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="org.traccar.action.ACTION_SOS_BUTTON_TRIGGER" />
+                <action android:name="android.intent.action.MEDIA_BUTTON" />
+            </intent-filter>
+        </receiver>
+
     </application>
 
 </manifest>

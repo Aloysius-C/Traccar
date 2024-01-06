@@ -1,274 +1,282 @@
 [
     {
-        "merged": "org.traccar.client.app-merged_res-45:/mipmap-anydpi-v26_ic_stop.xml.flat",
-        "source": "org.traccar.client.app-main-47:/mipmap-anydpi-v26/ic_stop.xml"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-anydpi-v21_ic_stop_foreground.xml.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-anydpi-v21\\ic_stop_foreground.xml"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-ldpi_ic_stop_foreground.png.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-ldpi/ic_stop_foreground.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-xhdpi_ic_start_foreground.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-xhdpi\\ic_start_foreground.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/mipmap-mdpi_ic_sos.png.flat",
-        "source": "org.traccar.client.app-main-47:/mipmap-mdpi/ic_sos.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-xhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/mipmap-hdpi_ic_sos.png.flat",
-        "source": "org.traccar.client.app-main-47:/mipmap-hdpi/ic_sos.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-xxhdpi_ic_stat_notify.png.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-xxhdpi/ic_stat_notify.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-xxxhdpi_ic_start_foreground.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-xxxhdpi\\ic_start_foreground.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-hdpi_ic_launcher_foreground.png.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-hdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\mipmap-xhdpi_ic_stop.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\mipmap-xhdpi\\ic_stop.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/mipmap-mdpi_ic_start.png.flat",
-        "source": "org.traccar.client.app-main-47:/mipmap-mdpi/ic_start.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-ldpi_ic_stat_notify.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-ldpi\\ic_stat_notify.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-xxxhdpi_ic_sos_foreground.png.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-xxxhdpi/ic_sos_foreground.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\mipmap-xxhdpi_ic_sos.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\mipmap-xxhdpi\\ic_sos.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-anydpi-v21_ic_launcher_foreground.xml.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-anydpi-v21/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-anydpi-v21_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-anydpi-v21\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-anydpi-v21_ic_start_foreground.xml.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-anydpi-v21/ic_start_foreground.xml"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-xxxhdpi_ic_sos_foreground.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-xxxhdpi\\ic_sos_foreground.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "org.traccar.client.app-main-47:/mipmap-mdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-hdpi_ic_stop_foreground.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-hdpi\\ic_stop_foreground.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-xhdpi_ic_stat_notify.png.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-xhdpi/ic_stat_notify.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\mipmap-hdpi_ic_start.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\mipmap-hdpi\\ic_start.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-xhdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-anydpi-v21_ic_sos_foreground.xml.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-anydpi-v21\\ic_sos_foreground.xml"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-xxxhdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/mipmap-hdpi_ic_stop.png.flat",
-        "source": "org.traccar.client.app-main-47:/mipmap-hdpi/ic_stop.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-ldpi_ic_sos_foreground.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-ldpi\\ic_sos_foreground.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-xxhdpi_ic_start_foreground.png.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-xxhdpi/ic_start_foreground.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-xhdpi_ic_sos_foreground.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-xhdpi\\ic_sos_foreground.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-xxhdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-xxhdpi_ic_stop_foreground.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-xxhdpi\\ic_stop_foreground.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/mipmap-xxhdpi_ic_sos.png.flat",
-        "source": "org.traccar.client.app-main-47:/mipmap-xxhdpi/ic_sos.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\mipmap-anydpi-v26_ic_stop.xml.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\mipmap-anydpi-v26\\ic_stop.xml"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-hdpi_ic_stat_notify.png.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-hdpi/ic_stat_notify.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\xml_status_widget_info.xml.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\xml\\status_widget_info.xml"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/mipmap-mdpi_ic_stop.png.flat",
-        "source": "org.traccar.client.app-main-47:/mipmap-mdpi/ic_stop.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\xml_shortcuts.xml.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\xml\\shortcuts.xml"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/xml_shortcuts.xml.flat",
-        "source": "org.traccar.client.app-main-47:/xml/shortcuts.xml"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-ldpi_ic_start_foreground.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-ldpi\\ic_start_foreground.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-mdpi_ic_sos_foreground.png.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-mdpi/ic_sos_foreground.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\mipmap-xhdpi_ic_sos.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\mipmap-xhdpi\\ic_sos.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/mipmap-xxxhdpi_ic_sos.png.flat",
-        "source": "org.traccar.client.app-main-47:/mipmap-xxxhdpi/ic_sos.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-hdpi_ic_start_foreground.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-hdpi\\ic_start_foreground.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-ldpi_ic_launcher_foreground.png.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-ldpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-anydpi-v21_ic_start_foreground.xml.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-anydpi-v21\\ic_start_foreground.xml"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-mdpi_ic_stop_foreground.png.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-mdpi/ic_stop_foreground.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\menu_main.xml.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\menu\\main.xml"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/mipmap-xxhdpi_ic_stop.png.flat",
-        "source": "org.traccar.client.app-main-47:/mipmap-xxhdpi/ic_stop.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\mipmap-hdpi_ic_stop.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\mipmap-hdpi\\ic_stop.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/menu_status.xml.flat",
-        "source": "org.traccar.client.app-main-47:/menu/status.xml"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\mipmap-mdpi_ic_sos.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\mipmap-mdpi\\ic_sos.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/mipmap-xhdpi_ic_start.png.flat",
-        "source": "org.traccar.client.app-main-47:/mipmap-xhdpi/ic_start.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\mipmap-hdpi_ic_sos.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\mipmap-hdpi\\ic_sos.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "org.traccar.client.app-main-47:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\mipmap-mdpi_ic_start.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\mipmap-mdpi\\ic_start.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-ldpi_ic_start_foreground.png.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-ldpi/ic_start_foreground.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\menu_status.xml.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\menu\\status.xml"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "org.traccar.client.app-main-47:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\xml_preferences.xml.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\xml\\preferences.xml"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-anydpi-v21_ic_stat_notify.xml.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-anydpi-v21/ic_stat_notify.xml"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-mdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/xml_preferences.xml.flat",
-        "source": "org.traccar.client.app-main-47:/xml/preferences.xml"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-xxhdpi_ic_stat_notify.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-xxhdpi\\ic_stat_notify.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "org.traccar.client.app-main-47:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-hdpi_ic_stat_notify.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-hdpi\\ic_stat_notify.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-hdpi_ic_start_foreground.png.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-hdpi/ic_start_foreground.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\layout_status_widget.xml.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\layout\\status_widget.xml"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "org.traccar.client.app-main-47:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\mipmap-xxhdpi_ic_start.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\mipmap-xxhdpi\\ic_start.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "org.traccar.client.app-main-47:/mipmap-hdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-xxxhdpi_ic_stop_foreground.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-xxxhdpi\\ic_stop_foreground.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-xxxhdpi_ic_start_foreground.png.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-xxxhdpi/ic_start_foreground.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-mdpi_ic_sos_foreground.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-mdpi\\ic_sos_foreground.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-ldpi_ic_sos_foreground.png.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-ldpi/ic_sos_foreground.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-xxhdpi_ic_sos_foreground.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-xxhdpi\\ic_sos_foreground.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/mipmap-xhdpi_ic_sos.png.flat",
-        "source": "org.traccar.client.app-main-47:/mipmap-xhdpi/ic_sos.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-xxhdpi_ic_start_foreground.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-xxhdpi\\ic_start_foreground.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-xhdpi_ic_sos_foreground.png.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-xhdpi/ic_sos_foreground.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-mdpi_ic_stop_foreground.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-mdpi\\ic_stop_foreground.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-mdpi_ic_launcher_foreground.png.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-mdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\mipmap-xhdpi_ic_start.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\mipmap-xhdpi\\ic_start.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/mipmap-anydpi-v26_ic_sos.xml.flat",
-        "source": "org.traccar.client.app-main-47:/mipmap-anydpi-v26/ic_sos.xml"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-xhdpi_ic_stop_foreground.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-xhdpi\\ic_stop_foreground.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/layout_list.xml.flat",
-        "source": "org.traccar.client.app-main-47:/layout/list.xml"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\layout_activity.xml.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\layout\\activity.xml"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/mipmap-anydpi-v26_ic_start.xml.flat",
-        "source": "org.traccar.client.app-main-47:/mipmap-anydpi-v26/ic_start.xml"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-anydpi-v21_ic_stat_notify.xml.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-anydpi-v21\\ic_stat_notify.xml"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-xhdpi_ic_stop_foreground.png.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-xhdpi/ic_stop_foreground.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-xxxhdpi_ic_stat_notify.png.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-xxxhdpi/ic_stat_notify.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\layout_list.xml.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\layout\\list.xml"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/xml_network_security_config.xml.flat",
-        "source": "org.traccar.client.app-main-47:/xml/network_security_config.xml"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-anydpi-v21_ic_stop_foreground.xml.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-anydpi-v21/ic_stop_foreground.xml"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/mipmap-xxhdpi_ic_start.png.flat",
-        "source": "org.traccar.client.app-main-47:/mipmap-xxhdpi/ic_start.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\mipmap-xxxhdpi_ic_stop.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\mipmap-xxxhdpi\\ic_stop.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/mipmap-hdpi_ic_start.png.flat",
-        "source": "org.traccar.client.app-main-47:/mipmap-hdpi/ic_start.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-mdpi_ic_stat_notify.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-mdpi\\ic_stat_notify.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-ldpi_ic_stat_notify.png.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-ldpi/ic_stat_notify.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-mdpi_ic_start_foreground.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-mdpi\\ic_start_foreground.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/layout_main.xml.flat",
-        "source": "org.traccar.client.app-main-47:/layout/main.xml"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\xml_externalbutton.xml.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\xml\\externalbutton.xml"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/xml_status_widget_info.xml.flat",
-        "source": "org.traccar.client.app-main-47:/xml/status_widget_info.xml"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-hdpi_ic_sos_foreground.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-hdpi\\ic_sos_foreground.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/mipmap-xxxhdpi_ic_stop.png.flat",
-        "source": "org.traccar.client.app-main-47:/mipmap-xxxhdpi/ic_stop.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-xhdpi_ic_start_foreground.png.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-xhdpi/ic_start_foreground.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-ldpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/layout_status_widget.xml.flat",
-        "source": "org.traccar.client.app-main-47:/layout/status_widget.xml"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/mipmap-xhdpi_ic_stop.png.flat",
-        "source": "org.traccar.client.app-main-47:/mipmap-xhdpi/ic_stop.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\layout_main.xml.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\layout\\main.xml"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-mdpi_ic_stat_notify.png.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-mdpi/ic_stat_notify.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-xhdpi_ic_stat_notify.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-xhdpi\\ic_stat_notify.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-xxxhdpi_ic_stop_foreground.png.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-xxxhdpi/ic_stop_foreground.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\mipmap-xxhdpi_ic_stop.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\mipmap-xxhdpi\\ic_stop.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-hdpi_ic_stop_foreground.png.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-hdpi/ic_stop_foreground.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-ldpi_ic_stop_foreground.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-ldpi\\ic_stop_foreground.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-mdpi_ic_start_foreground.png.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-mdpi/ic_start_foreground.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\mipmap-anydpi-v26_ic_start.xml.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\mipmap-anydpi-v26\\ic_start.xml"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/mipmap-xxxhdpi_ic_start.png.flat",
-        "source": "org.traccar.client.app-main-47:/mipmap-xxxhdpi/ic_start.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\mipmap-mdpi_ic_stop.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\mipmap-mdpi\\ic_stop.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-xxhdpi_ic_stop_foreground.png.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-xxhdpi/ic_stop_foreground.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\mipmap-xxxhdpi_ic_sos.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\mipmap-xxxhdpi\\ic_sos.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-anydpi-v21_ic_sos_foreground.xml.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-anydpi-v21/ic_sos_foreground.xml"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-xxxhdpi_ic_stat_notify.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-xxxhdpi\\ic_stat_notify.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/menu_main.xml.flat",
-        "source": "org.traccar.client.app-main-47:/menu/main.xml"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\mipmap-xxxhdpi_ic_start.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\mipmap-xxxhdpi\\ic_start.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-xxhdpi_ic_sos_foreground.png.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-xxhdpi/ic_sos_foreground.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "org.traccar.client.app-merged_res-45:/drawable-hdpi_ic_sos_foreground.png.flat",
-        "source": "org.traccar.client.app-regular-40:/drawable-hdpi/ic_sos_foreground.png"
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-regular-40:\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-merged_res-45:\\mipmap-anydpi-v26_ic_sos.xml.flat",
+        "source": "C:\\Users\\Aloysius Chia\\.gradle\\daemon\\8.2\\org.traccar.client.app-main-47:\\mipmap-anydpi-v26\\ic_sos.xml"
     }
 ]

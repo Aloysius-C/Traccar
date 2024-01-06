@@ -19,6 +19,7 @@ import android.Manifest
 import android.content.Intent
 import android.content.pm.PackageManager
 import android.os.Bundle
+import android.view.KeyEvent
 import android.widget.AdapterView.OnItemClickListener
 import android.widget.ArrayAdapter
 import android.widget.ListView
@@ -44,7 +45,8 @@ class ShortcutActivity : AppCompatActivity() {
             val items = arrayOf(
                 getString(R.string.shortcut_start),
                 getString(R.string.shortcut_stop),
-                getString(R.string.shortcut_sos)
+                getString(R.string.shortcut_sos),
+                getString(R.string.shortcut_test)
             )
             val listView = findViewById<ListView>(android.R.id.list)
             listView.adapter = ArrayAdapter(this, android.R.layout.simple_list_item_1, items)
@@ -53,6 +55,7 @@ class ShortcutActivity : AppCompatActivity() {
                     0 -> setShortcutResult(items[position], R.mipmap.ic_start, ACTION_START)
                     1 -> setShortcutResult(items[position], R.mipmap.ic_stop, ACTION_STOP)
                     2 -> setShortcutResult(items[position], R.mipmap.ic_sos, ACTION_SOS)
+                    3 -> setShortcutResult(items[position], R.mipmap.ic_sos, ACTION_TEST)
                 }
                 finish()
             }
@@ -90,7 +93,6 @@ class ShortcutActivity : AppCompatActivity() {
                     }
                 })
             }
-
             override fun onPositionError(error: Throwable) {
                 Toast.makeText(this@ShortcutActivity, error.message, Toast.LENGTH_LONG).show()
             }
@@ -122,17 +124,23 @@ class ShortcutActivity : AppCompatActivity() {
                         Toast.makeText(this, R.string.status_send_fail, Toast.LENGTH_SHORT).show()
                     }
                 }
+                ACTION_TEST -> {
+                        sendAlarm()
+                }
             }
             finish()
         }
         return action != null
     }
 
+
+
     companion object {
         const val EXTRA_ACTION = "action"
         const val ACTION_START = "start"
         const val ACTION_STOP = "stop"
         const val ACTION_SOS = "sos"
+        const val ACTION_TEST = "test"
         private const val ALARM_SOS = "sos"
     }
 }

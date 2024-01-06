@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:2:1-102:12
-INJECTED from D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:2:1-102:12
-INJECTED from D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:2:1-102:12
-INJECTED from D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:2:1-102:12
+ADDED from D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:2:1-111:12
+INJECTED from D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:2:1-111:12
+INJECTED from D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:2:1-111:12
+INJECTED from D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:2:1-111:12
 MERGED from [dev.doubledot.doki:library:0.0.1] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\d7bdded7b670c3e7530969c925866944\transformed\library-0.0.1\AndroidManifest.xml:2:1-19:12
 MERGED from [com.google.android.material:material:1.10.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\8850a9601a9f3e022d5fbb7f49a2f220\transformed\material-1.10.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\b5d5e10bc3f9f1a11634ec8db445327c\transformed\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
@@ -134,8 +134,8 @@ ADDED from D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:21:5-6
 	android:name
 		ADDED from D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:21:19-63
 application
-ADDED from D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:23:5-100:19
-INJECTED from D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:23:5-100:19
+ADDED from D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:23:5-109:19
+INJECTED from D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:23:5-109:19
 MERGED from [dev.doubledot.doki:library:0.0.1] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\d7bdded7b670c3e7530969c925866944\transformed\library-0.0.1\AndroidManifest.xml:13:5-17:19
 MERGED from [dev.doubledot.doki:library:0.0.1] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\d7bdded7b670c3e7530969c925866944\transformed\library-0.0.1\AndroidManifest.xml:13:5-17:19
 MERGED from [com.google.android.material:material:1.10.0] C:\Users\Aloysius Chia\.gradle\caches\transforms-3\8850a9601a9f3e022d5fbb7f49a2f220\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
@@ -292,6 +292,22 @@ ADDED from D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:95:13-
 		ADDED from D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:97:17-59
 	android:name
 		ADDED from D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:96:17-58
+receiver#org.traccar.client.ExternalButtonReciever
+ADDED from D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:100:9-107:20
+	android:exported
+		ADDED from D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:102:13-36
+	android:name
+		ADDED from D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:101:13-51
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON+action:name:org.traccar.action.ACTION_SOS_BUTTON_TRIGGER
+ADDED from D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:103:13-106:29
+action#org.traccar.action.ACTION_SOS_BUTTON_TRIGGER
+ADDED from D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:104:17-87
+	android:name
+		ADDED from D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:104:25-84
+action#android.intent.action.MEDIA_BUTTON
+ADDED from D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:105:17-77
+	android:name
+		ADDED from D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml:105:25-74
 uses-sdk
 INJECTED from D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\dev\TraccarTest\AndroidApp\app\src\main\AndroidManifest.xml

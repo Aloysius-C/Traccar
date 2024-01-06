@@ -1,4 +1,4 @@
-#Fri Jan 05 18:53:51 SGT 2024
+#Sat Jan 06 18:32:41 SGT 2024
 base.0=D\:\\dev\\TraccarTest\\AndroidApp\\app\\build\\intermediates\\dex\\regularDebug\\mergeExtDexRegularDebug\\classes.dex
 base.1=D\:\\dev\\TraccarTest\\AndroidApp\\app\\build\\intermediates\\dex\\regularDebug\\mergeProjectDexRegularDebug\\0\\classes.dex
 base.2=D\:\\dev\\TraccarTest\\AndroidApp\\app\\build\\intermediates\\dex\\regularDebug\\mergeProjectDexRegularDebug\\1\\classes.dex
